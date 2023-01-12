@@ -139,5 +139,5 @@ def enter(message):
 if __name__ == '__main__':
     bot.skip_pending = True
     bot.polling(none_stop=True)
-    #bot.infinity_polling()
+ 
 
